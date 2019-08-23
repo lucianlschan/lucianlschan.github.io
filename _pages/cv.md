@@ -11,11 +11,11 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* BSc Mathematics and Statistical Science, University College London, 2016
+* MSc Applied Statistics, University of Oxford, 2017
+* DPhil in Statistics, University of Oxford, 2017-Present
 
-Work experience
+<!---Work experience
 ======
 * Summer 2015: Research Assistant
   * Github University
@@ -26,7 +26,8 @@ Work experience
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
-  
+--->
+
 Skills
 ======
 * Skill 1
@@ -35,6 +36,11 @@ Skills
   * Sub-skill 2.2
   * Sub-skill 2.3
 * Skill 3
+
+Language
+======
+* Programming (in order of experience)
+  * Language: Python, R, C++
 
 Publications
 ======
