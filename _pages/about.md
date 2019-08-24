@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-I am a final year DPhil student in Statistics at the University of Oxford. I am a member of the [Oxford Protein Informatics Group (http://opig.stats.ox.ac.uk/) ], supervised by Professor Garrett M. Morris.
+I am a final year DPhil student in Statistics at the University of Oxford. I am a member of the Oxford Protein Informatics Group [OPIG](http://opig.stats.ox.ac.uk/), supervised by Professor Garrett M. Morris.
 
 
