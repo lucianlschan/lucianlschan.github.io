@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* BSc Mathematics and Statistical Science, University College London, 2016
-* MSc Applied Statistics, University of Oxford, 2017
+* BSc Mathematics and Statistical Science, University College London, 2013-2016
+* MSc Applied Statistics, University of Oxford, 2016-2017
 * DPhil in Statistics, University of Oxford, 2017-Present
 
 <!---Work experience
@@ -30,7 +30,7 @@ Education
 
 Skills
 ======
-* Programming (in order of experience)
+* Programming (in order of usage)
   * Language: Python, R, C++
 
 Language
