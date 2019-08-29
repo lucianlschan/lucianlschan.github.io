@@ -1,5 +1,5 @@
 ---
-title: "Bayesian Optimization for Conformer Generation"
+title: "ACS National Meeting 2019: Bayesian Optimization for Conformer Generation"
 collection: talks
 type: "Talk"
 permalink: /talks/talk_1
