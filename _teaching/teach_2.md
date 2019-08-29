@@ -1,10 +1,10 @@
 ---
-title: "Teaching"
+title: "Data Science and High Performance Computing"
 collection: teaching
-type: "Doctoral Training Center: Data Science and HPC"
+type: "Doctoral Training Center Modules"
 permalink: /teaching/teach_2
 venue: "University of Oxford"
-date: 2018-09-01
+date: 2018-03-01
 location: "Oxford, UK"
 ---
 
